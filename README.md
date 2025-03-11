@@ -15,7 +15,7 @@ Welcome to the **Blog Website Using MERN** repository! This project is a full-st
 
 ## 🚀 Demo
 
-Check out the live demo of the project: [Demo Link](https://dn-mern-blog.onrender.com/)
+Check out the live demo of the project: [Demo Link](https://dn-mern-blogs.onrender.com/)
 
 ---
 
